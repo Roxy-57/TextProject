@@ -30,10 +30,6 @@
 ## 아쉬운점
 - 짧은 시간에 활용하려 보니 델리게이트 개념이 제대로 잡히지 않아 잘 사용하지 못해 아쉬웠습니다.
 
-![전투화면](https://github.com/user-attachments/assets/830a9e71-2028-4014-b19d-93f5ab672cbf)
-![게임진행화면](https://github.com/user-attachments/assets/1a9883d3-7d0c-4a92-a993-06303d3cd268)
-![첫 화면](https://github.com/user-attachments/assets/698ccc3e-774c-4564-aa38-674ae85b316c)
-![보스 출현](https://github.com/user-attachments/assets/493b9246-4581-47f7-bba7-b55ca5d8f086)
 
 ## 프로젝트 이미지
 | ![첫 화면](https://github.com/user-attachments/assets/698ccc3e-774c-4564-aa38-674ae85b316c) | ![게임진행화면](https://github.com/user-attachments/assets/1a9883d3-7d0c-4a92-a993-06303d3cd268) |
