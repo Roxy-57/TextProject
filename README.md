@@ -30,7 +30,12 @@
 ## 아쉬운점
 - 짧은 시간에 활용하려 보니 델리게이트 개념이 제대로 잡히지 않아 잘 사용하지 못해 아쉬웠습니다.
 
+![전투화면](https://github.com/user-attachments/assets/830a9e71-2028-4014-b19d-93f5ab672cbf)
+![게임진행화면](https://github.com/user-attachments/assets/1a9883d3-7d0c-4a92-a993-06303d3cd268)
+![첫 화면](https://github.com/user-attachments/assets/698ccc3e-774c-4564-aa38-674ae85b316c)
+![보스 출현](https://github.com/user-attachments/assets/493b9246-4581-47f7-bba7-b55ca5d8f086)
+
 ## 프로젝트 이미지
-| ![맑음](https://github.com/user-attachments/assets/be5a11eb-931f-492a-b8f0-9e886afa981b) | ![흐림](https://github.com/user-attachments/assets/ae145efc-b82c-492f-ac32-927fe0e06c4f) |
+| ![첫 화면](https://github.com/user-attachments/assets/698ccc3e-774c-4564-aa38-674ae85b316c) | ![게임진행화면](https://github.com/user-attachments/assets/1a9883d3-7d0c-4a92-a993-06303d3cd268) |
 |------------------------------------------|------------------------------------------|
-| ![비](https://github.com/user-attachments/assets/7f37ec99-8f41-4b75-9f68-a359ab3ff8de)   | ![눈](https://github.com/user-attachments/assets/319f076b-0835-45eb-be15-57198a6708a5)   |
+| ![전투화면](https://github.com/user-attachments/assets/830a9e71-2028-4014-b19d-93f5ab672cbf)   | ![보스 출현](https://github.com/user-attachments/assets/493b9246-4581-47f7-bba7-b55ca5d8f086)   |
