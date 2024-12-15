@@ -14,9 +14,7 @@
 - 행동력이 충분한 경우, 도망 선택을 통해 전투를 피할 수 있는 기능 구현
 - 전투 시스템에서 몬스터 객체(`Monster` 클래스)를 활용하여 각각의 몬스터 상태를 관리하고, 현재 몬스터의 상태를 지속적으로 업데이트하도록 구현
 
-작업 기간
-- 2024.10.31 ~ 2024.11.07 (1주)
-개인 프로젝트
+
 
 ## 기술 스택 (Skill)
 [![C#](https://img.shields.io/badge/C%23-Language-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
